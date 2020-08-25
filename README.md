@@ -1,7 +1,5 @@
 # DiscordIntegration
-_For Beat Saber v1.11.1_
-
-_Requires BS Utils v1.4.11 and BSML v1.3.4_
+_For Beat Saber v1.11.1 - Requires BS Utils v1.4.11 and BSML v1.3.4_
 
 Discord Rich Presence for Beat Saber
 
