@@ -1,0 +1,27 @@
+{
+	"pluginEnabled": "Rich Presence Käytössä",
+
+	"usePlayButtonEmoji": "Käytä Play näppäin emojia",
+
+	"showGameplayModifiers": "Näytä pelitilan muokkaimet",
+
+	"showPracticeMode": "Näytä harjoittelutila",
+
+	"showTimeRemaining": "Näytä aika jäljellä",
+
+	"showDifficulty": "Näytä vaikeusaste artistin sijaan",
+
+	"languageSelector": "Kieli",
+
+	"discordUser": "Discord Käyttäjä: ",
+
+	"menu": "Päävalikossa",
+	"playing": "Pelaamassa: ",
+	"by": "By: ",
+	"mappedBy": "Kartan Tehnyt: ",
+	"difficulty": "Vaikeusaste: ",
+	"paused": "TAUOLLA",
+
+	"and": "ja",
+	"enabled": "Päällä"
+}

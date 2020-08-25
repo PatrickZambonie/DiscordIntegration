@@ -1,0 +1,9 @@
+﻿<settings-container>
+  <checkbox-setting id="pluginEnabledText" text='Rich Presence Enabled' value='pluginEnabled' hover-hint='When enabled, your Discord status will be updated with info such as current beatmap. When disabled, Discord will only show that you are playing Beat Saber.'></checkbox-setting>
+  <checkbox-setting id="useEmojiText" text='Use Play Button Emoji' value='usePlayButtonEmoji' hover-hint="Replaces the 'Playing' text in the status with a play button emoji (Useful for long song names)"></checkbox-setting>
+  <checkbox-setting id="showGameplayModifiersText" text='Show Gameplay Modifiers' value='showGameplayModifiers'></checkbox-setting>
+  <checkbox-setting id="showPracticeModeText" text='Show Practice Mode' value='showPracticeMode'></checkbox-setting>
+  <checkbox-setting id="showTimeRemainingText" text='Show Time Remaining' value='showTimeRemaining' hover-hint='When disabled, Discord will instead show time elapsed'></checkbox-setting>
+  <checkbox-setting id="showDifficultyText" text='Show Difficulty Instead of Artist' value='showDifficulty'></checkbox-setting>
+  <dropdown-list-setting id='languageSelector' text='Language' value='languageSelected' choices='languageList' apply-on-change='true'></dropdown-list-setting>
+</settings-container>

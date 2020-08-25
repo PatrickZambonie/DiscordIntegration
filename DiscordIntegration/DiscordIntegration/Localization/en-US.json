@@ -1,0 +1,35 @@
+{
+	"pluginEnabled": "Rich Presence Enabled",
+	"pluginEnabled_tooltip": "When enabled, your Discord status will be updated with info such as current beatmap. When disabled, Discord will only show that you are playing Beat Saber.",
+
+	"usePlayButtonEmoji": "Use Play Button Emoji",
+	"usePlayButtonEmoji_tooltip": "Replaces the 'Playing' text in the status with a play button emoji (Useful for long song names)",
+
+	"showGameplayModifiers": "Show Gameplay Modifiers",
+
+	"showPracticeMode": "Show Practice Mode",
+
+	"showTimeRemaining": "Show Time Remaining",
+	"showTimeRemaining_tooltip": "When disabled, Discord will instead show time elapsed",
+
+	"showDifficulty": "Show Difficulty Instead of Artist",
+
+	"languageSelector": "Language",
+
+	"menu": "In the Main Menu",
+	"playing": "Playing: ",
+	"by": "By: ",
+	"mappedBy": "Mapped by: ",
+	"difficulty": "Difficulty: ",
+	"paused": "PAUSED",
+
+	"fasterSong": "Faster Song Enabled",
+	"slowerSong": "Slower Song Enabled",
+	"practiceMode": "Practice Mode",
+	"noFailMode": "No Fail Mode",
+	"ghostNotes": "Ghost Notes Enabled",
+	"disappearingArrows": "Disappearing Arrows Enabled",
+
+	"and": "and",
+	"enabled": "Enabled"
+}

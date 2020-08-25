@@ -1,0 +1,26 @@
+﻿{
+	"pluginEnabled": "Szczegolowy Status Wlaczony",
+
+	"usePlayButtonEmoji": "Uzyj Emoji Zamiast 'Gra:'",
+
+	"showGameplayModifiers": "Modyfikatory Rozgrywki",
+
+	"showPracticeMode": "Pokazac Tryb Praktyka",
+
+	"showTimeRemaining": "Pokazac Pozostaly Czas",
+
+	"showDifficulty": "Pokazac Trudnosci Zamiast Artysta",
+
+	"languageSelector": "Jezyk",
+
+	"menu": "W Menu",
+	"playing": "Gra: ",
+	"by": "Przez: ",
+	"mappedBy": "Zmapowany Przez: ",
+	"difficulty": "Trudności: ",
+
+	"practiceMode": "Tryb Ćwiczeń",
+
+	"and": "i",
+	"enabled": "Włączone"
+}

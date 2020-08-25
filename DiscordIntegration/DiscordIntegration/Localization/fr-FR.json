@@ -1,0 +1,35 @@
+﻿{
+	"pluginEnabled": "Statut detaille",
+	"pluginEnabled_tooltip": "Lorsqu'il est active, votre statut Discord sera mis a jour avec des informations telles que la beatmap actuel. Si desactive, Discord montrera uniquement que vous jouez a Beat Saber.",
+
+	"usePlayButtonEmoji": "Utiliser un Emoji",
+	"usePlayButtonEmoji_tooltip": "Remplace le texte 'Joue sur' dans votre statut Discord par un Emoji (Utile pour les longs titre de musique)",
+
+	"showGameplayModifiers": "Afficher les modificateurs de gameplay",
+
+	"showPracticeMode": "Afficher le mode entrainement",
+
+	"showTimeRemaining": "Afficher le temps restant",
+	"showTimeRemaining_tooltip": "Lorsqu'il est désactivé, Discord affiche à la place le temps écoulé",
+
+	"showDifficulty": "Afficher la difficulte au lieu de l'artiste",
+
+	"languageSelector": "Langue",
+
+	"menu": "Dans le menu principal",
+	"playing": "Joue sur: ",
+	"by": "De: ",
+	"mappedBy": "Mappé pa: ",
+	"difficulty": "Difficulté: ",
+	"paused":  "EN PAUSE",
+
+	"fasterSong": "Musique plus rapide activée",
+	"slowerSong": "Musique plus lente activée",
+	"practiceMode": "Mode entraînement",
+	"noFailMode": "Mode sans échec",
+	"ghostNotes": "Notes fantômes activées",
+	"disappearingArrows": "Mode sans flèches activées",
+
+	"and": "et",
+	"enabled": "activée"
+}

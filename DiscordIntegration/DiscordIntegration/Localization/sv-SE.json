@@ -1,0 +1,35 @@
+{
+	"pluginEnabled": "Detaljerad status aktiverad",
+	"pluginEnabled_tooltip": "Om denna modifiering ar pa sa kommer din Discord status att bli updaterad med information som laten du spelar. Nar den ar avstangd kommer Discord bara visa att du spelar Beat Saber.",
+
+	"usePlayButtonEmoji": "Anvand Start Knapp Emoji",
+	"usePlayButtonEmoji_tooltip": "Byter ut 'Spelar' texten i statusen med en start knapp emoji (Anvandbart far latar med langa namn)",
+
+	"showGameplayModifiers": "Visa spelets modifieringar",
+
+	"showPracticeMode": "Visa Tranings Lage",
+
+	"showTimeRemaining": "Visa tiden som aterstar",
+	"showTimeRemaining_tooltip": "När denna modifieringär avstängd kommer Discord istallet att visa tiden som forflutit",
+
+	"showDifficulty": "Visa Svarighetsgrad Istallet For Artist",
+
+	"languageSelector": "Sprak",
+
+	"menu": "I huvudmenyn",
+	"playing": "Spelar: ",
+	"by": "Av: ",
+	"mappedBy": "Gjord av: ",
+	"difficulty": "Svårighetsgrad: ",
+	"paused": "PAUSAT",
+
+	"fasterSong": "Snabbare låt",
+	"slowerSong": "Långsammare låt",
+	"practiceMode": "Tränings läge",
+	"noFailMode": "Oändligt liv läge",
+	"ghostNotes": "Spök noter läge",
+	"disappearingArrows": "Försvinnande pilar läge",
+
+	"and": "och",
+	"enabled": "Aktiverat"
+}

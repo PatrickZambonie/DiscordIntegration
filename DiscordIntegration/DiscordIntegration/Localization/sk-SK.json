@@ -1,0 +1,29 @@
+{
+    "pluginEnabled": "Rich Presence plugin je zapnutý",
+
+    "usePlayButtonEmoji": "Použiť emoji Play Button",
+
+    "showGameplayModifiers": "Zobraziť herné modifikátory",
+
+    "showPracticeMode": "Zobraziť cvičný režim",
+
+    "showTimeRemaining": "Zobraziť zostávajúci čas",
+
+    "showDifficulty": "Zobraziť obtiažnosť namiesto umelca",
+
+    "languageSelector": "Jazyk",
+
+    "discordUser": "Discord užívateľ: ",
+
+    "menu": "V hlavnom menu",
+    "playing": "Hrá: ",
+    "by": "Od: ",
+    "mappedBy": "Namapované od: ",
+    "difficulty": "Obtiažnosť: ",
+    "paused": "POZASTAVENÉ",
+
+    "practiceMode": "Cvičný režim",
+
+    "and": "a",
+    "enabled": "zapnuté"
+}

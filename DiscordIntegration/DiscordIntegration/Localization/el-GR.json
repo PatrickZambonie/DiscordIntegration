@@ -1,0 +1,28 @@
+{
+	"pluginEnabled": "Leptomeres Status Energo",
+	"pluginEnabled_tooltip": "Otan einai energo, to Discord status sou tha enhmerwnetai me info opws thn twrinh pista. Otan einai anenergo, to Discord tha dixnei mono oti paizeis Beat Saber.",
+
+	"usePlayButtonEmoji": "Xrhsimopoihse to Play Button Emoji",
+	"usePlayButtonEmoji_tooltip": "Allazei to 'Playing' mhnuma sto status sou me ena play button emoji (Xrhsimo an to tragoudi exei megalo onoma).",
+
+	"showGameplayModifiers": "Deikse ta Modifiers tou paixnidiou",
+
+	"showPracticeMode": "Deikse to Practice Mode",
+
+	"showTimeRemaining": "Deikse ton upoloipo xrono",
+	"showTimeRemaining_tooltip": "Otan einai anenergo, to Discord tha dixnei ton upoloipo xrono.",
+
+	"showDifficulty": "Deikse ton vathmo duskolias anti gia ton kalhtexnh",
+
+	"languageSelector": "Glwssa",
+
+	"menu": "Στο κεντρικό μενού",
+	"playing": "Παίζει: ",
+	"by": "Από: ",
+	"mappedBy": "Πίστα από: ",
+	"difficulty": "Δυσκολία: ",
+	"paused": "ΣΤΑΜΑΤΗΜΕΝΟ",
+
+	"and": "και",
+	"enabled": "Ενεργό"
+}

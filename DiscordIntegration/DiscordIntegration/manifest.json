@@ -1,0 +1,10 @@
+﻿{
+  "$schema": "https://raw.githubusercontent.com/nike4613/ModSaber-MetadataFileSchema/master/Schema.json",
+  "author": "Fudgeu",
+  "description": "Enables Discord Rich Presence for Beat Saber",
+  "gameVersion": "1.11.1",
+  "id": "DiscordIntegration",
+  "name": "DiscordIntegration",
+  "version": "1.1.4",
+  "features": []
+}

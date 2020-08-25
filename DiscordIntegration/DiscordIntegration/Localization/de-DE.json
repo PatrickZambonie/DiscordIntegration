@@ -1,0 +1,36 @@
+{
+	"pluginEnabled": "Rich Presence aktiv",
+	"pluginEnabled_tooltip": "Wenn aktiv, zeigt dein Discord-Status Infos wie welches Lied du gerade spielst. Wenn nicht ativ, wird nur gezeigt, dass du BeatSaber spielst.",
+
+	"usePlayButtonEmoji": "Benutze Spiel-Knopf-Emoji",
+	"usePlayButtonEmoji_tooltip": "Ersetzt den Text 'Spielt: ' im Status mit einem Spiel-Knopf-Emoji (Nützlich für lange Songnamen)",
+
+	"showGameplayModifiers": "Spielmodifikatoren anzeigen",
+
+	"showPracticeMode": "Übungsmodus anzeigen",
+
+	"showTimeRemaining": "Verbleibende Zeit anzeigen",
+	"showTimeRemaining_tooltip": "Wenn ausgeschaltet, wird Discord die verstrichene Zeit zeigen",
+
+	"showDifficulty": "Zeige Schwierigkeit anstelle des Künstlers",
+
+	"languageSelector": "Sprache",
+
+	"menu": "Im Hauptmenü",
+	"playing": "Spielt: ",
+	"by": "Von: ",
+	"mappedBy": "Erstellt von: ",
+	"difficulty": "Schwierigkeit: ",
+	"paused": "PAUSIERT",
+
+	"fasterSong": "Faster Song an",
+	"slowerSong": "Slower Song an",
+	"practiceMode": "Übungsmodus",
+	"noFailMode": "No Fail Mode",
+	"ghostNotes": "Ghost Notes an",
+	"disappearingArrows": "Disappearing Arrows an",
+
+	"practiceMode": "Übungsmodus",
+	"and": "und",
+	"enabled": "Eingeschaltet"
+}

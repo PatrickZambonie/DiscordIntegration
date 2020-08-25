@@ -1,0 +1,29 @@
+{
+	"pluginEnabled": "Rik Tilvaerenhet Aktivert",
+
+	"usePlayButtonEmoji": "Bruk Spillknapp Emoji",
+
+	"showGameplayModifiers": "Vis Spillmodifikasjoner",
+
+	"showPracticeMode": "Vis Ovelsesmodus",
+
+	"showTimeRemaining": "Vis Tid Gjenvaerende",
+
+	"showDifficulty": "Vis Vanskelighetsgrad Istedetfor Artist",
+
+	"languageSelector": "Sprak",
+
+	"discordUser": "Discord Bruker: ",
+
+	"menu": "I Hovedmenyen",
+	"playing": "Spiller: ",
+	"by": "Av: ",
+	"mappedBy": "Laget av: ",
+	"difficulty": "Vanskelighetsgrad: ",
+	"paused": "PAUSET",
+
+	"practiceMode": "Ovelsesmodus",
+
+	"and": "og",
+	"enabled": "Aktivert"
+}

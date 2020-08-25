@@ -1,0 +1,29 @@
+{
+	"pluginEnabled": "Rich Presence Abilitato",
+
+	"usePlayButtonEmoji": "Usa emoji del tasto Play",
+
+	"showGameplayModifiers": "Mostra i Gameplay Modifier",
+
+	"showPracticeMode": "Mostra modalità Pratica",
+
+	"showTimeRemaining": "Mostra Tempo rimanente",
+
+	"showDifficulty": "Mostra Difficoltà al posto di Artista",
+
+	"languageSelector": "Lingua",
+
+	"discordUser": "Utente Discord: ",
+
+	"menu": "Nel Menu principale",
+	"playing": "Giocando a: ",
+	"by": "Da: ",
+	"mappedBy": "Mappato da: ",
+	"difficulty": "Difficoltà: ",
+	"paused": "IN PAUSA",
+
+	"practiceMode": "Modalità Pratica",
+	
+	"and": "e",
+	"enabled": "Abilitato"
+}

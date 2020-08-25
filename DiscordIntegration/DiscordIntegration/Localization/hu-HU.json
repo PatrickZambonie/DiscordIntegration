@@ -1,0 +1,29 @@
+{
+	"pluginEnabled": "Bővebb Információk Megjelenítése",
+
+	"usePlayButtonEmoji": "Játékban Gomb Megjelenítése",
+
+	"showGameplayModifiers": "Játék Mod Mutatása",
+
+	"showPracticeMode": "Gyakorló Mód Megjelenítése",
+
+	"showTimeRemaining": "Hátralévő Idő Megjelenítése",
+
+	"showDifficulty": "Nehézség Mutatása Előadó Helyett",
+
+	"languageSelector": "Nyelv",
+
+	"discordUser": "Discord Felhasználó: ",
+
+	"menu": "Menüben",
+	"playing": "Játékban: ",
+	"by": "Előadó: ",
+	"mappedBy": "Készítette: ",
+	"difficulty": "Nehézség: ",
+	"paused": "MEGÁLLÍTVA",
+
+	"practiceMode": "Gyakorló Mód",
+	
+	"and": "és",
+	"enabled": "Bekapcsolva"
+}

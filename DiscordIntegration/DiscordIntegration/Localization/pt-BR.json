@@ -1,0 +1,35 @@
+{
+	"pluginEnabled": "Plugin de Status Detalhado Ativado",
+	"pluginEnabled_tooltip": "Quando ativado, seu status do discord sera atualizado com informações como a musica atual. Quando desativado, só vai mostrar que você está jogando Beat Saber.",
+
+	"usePlayButtonEmoji": "Usar o Emoji de Play",
+	"usePlayButtonEmoji_tooltip": "Substitui o texto 'jogando' por um emoji de 'play' (Util para nomes longos de musica)",
+
+	"showGameplayModifiers": "Mostrar modificadores de jogo",
+
+	"showPracticeMode": "Mostrar modo de Treino",
+
+	"showTimeRemaining": "Mostrar o tempo sobrando",
+	"showTimeRemaining_tooltip": "Quando desativado, o Discord vai mostrar o tempo sobrando",
+
+	"showDifficulty": "Mostrar dificuldade ao invez de artista",
+
+	"languageSelector": "Lingua",
+
+	"menu": "No Menu Principal",
+	"playing": "Jogando: ",
+	"by": "Por: ",
+	"mappedBy": "Mapeado por: ",
+	"difficulty": "Dificuldade: ",
+	"paused": "PAUSADO",
+
+	"fasterSong": "Musica Rapida Ativada",
+	"slowerSong": "Musica Lenta Ativada",
+	"practiceMode": "Modo de Treino",
+	"noFailMode": "Modo 'No Fail'",
+	"ghostNotes": "Ghost Notes Enabled",
+	"disappearingArrows": "Disappearing Arrows Enabled",
+
+	"and": "e",
+	"enabled": "Ativado"
+}

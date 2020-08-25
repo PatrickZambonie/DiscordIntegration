@@ -1,0 +1,27 @@
+{
+	"pluginEnabled": "Detaljeret Status er Aktiveret",
+
+	"usePlayButtonEmoji": "Brug Spil-knap Emoji",
+
+	"showGameplayModifiers": "Vis spil Modifikationer",
+
+	"showPracticeMode": "Vis Ovetilstand",
+
+	"showTimeRemaining": "Vis Tid Tilbage",
+
+	"showDifficulty": "Vis Svaerhedsgrad i stedet for Kunstner",
+
+	"languageSelector": "Sprog",
+
+	"discordUser": "Discord Bruger: ",
+
+	"menu": "I Menuen",
+	"playing": "Spiller: ",
+	"by": "Af: ",
+	"mappedBy": "Map af: ",
+	"difficulty": "Sværhedsgrad: ",
+	"paused": "SAT PÅ PAUSE",
+
+	"and": "Og",
+	"enabled": "Aktiveret"
+}

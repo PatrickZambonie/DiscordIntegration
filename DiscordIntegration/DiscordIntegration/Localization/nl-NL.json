@@ -1,0 +1,29 @@
+{
+	"pluginEnabled": "Discord Rich Presence is nu actief",
+
+	"usePlayButtonEmoji": "Gebruik Speelknop Emoji",
+
+	"showGameplayModifiers": "Laat de Gameplay Modifiers zien",
+
+	"showPracticeMode": "Laat Practice Mode Zien",
+
+	"showTimeRemaining": "Laat de overige tijd zien",
+
+	"showDifficulty": "Laat de Moeilijkheidsgraad zien in plaats van de artiest",
+
+	"languageSelector": "Taal",
+
+	"discordUser": "Discord Gebruiker: ",
+
+	"menu": "In het hoofdmenu",
+	"playing": "Aan het spelen: ",
+	"by": "Maker: ",
+	"mappedBy": "Gemaakt door: ",
+	"difficulty": "Moeilijkheidsgraad: ",
+	"paused": "GEPAUSEERD",
+
+	"practiceMode": "Practice Mode",
+
+	"and": "en",
+	"enabled": "Geactiveerd"
+}
